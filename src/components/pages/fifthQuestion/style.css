@@ -1,0 +1,30 @@
+.fifth-page_img {
+    width: 40rem;
+}
+
+.fifth-page__hint-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.fifth-hint-container {
+    display: flex;
+    flex-direction: row; 
+    align-items: center;
+}
+
+.hint-button {
+    /* margin-right: 0.5rem; */
+    margin: 0.9rem 0.5rem 0.9rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fifth-page__answer-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.5rem;
+}

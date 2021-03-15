@@ -1,0 +1,18 @@
+.header__container {
+ position: fixed;
+ top: 0;
+ left: 0;
+ right: 0;
+ height: 80px;
+ background-color: #212121;
+ padding: 0 7rem;
+ display: flex;
+ align-items: center;
+}
+
+.header__logo {
+    width: 12.5rem;
+}
+.header__logo:hover {
+    cursor: pointer;
+}
